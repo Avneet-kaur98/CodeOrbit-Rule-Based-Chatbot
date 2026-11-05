@@ -40,5 +40,4 @@ Bot: Goodbye! Thanks for chatting with me. Have a great day!
 - `chatbot.py` — complete source code
 - `README.md` — project description and run instructions
 
-## Internship submission
-You can upload this project folder to GitHub or Google Drive using the folder name requested by your internship instructions (for example, `CodeOrbit_RuleBasedChatbot`). Add screenshots of a successful run before submitting through the internship's official submission form.
+
