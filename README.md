@@ -17,13 +17,12 @@ A beginner-friendly chatbot built with Python. It responds to greetings and comm
 - IntelliJ IDEA with Python support configured, or another Python IDE
 
 ## Run in IntelliJ IDEA
-1. Extract `CodeOrbit_Rule_Based_Chatbot.zip` to a folder.
-2. In IntelliJ IDEA, choose **File → Open** and select the extracted `CodeOrbit_Rule_Based_Chatbot` folder.
-3. Ensure the project has a Python interpreter configured:
+1. In IntelliJ IDEA, choose **File → Open** and select the extracted `CodeOrbit_Rule_Based_Chatbot` folder.
+2. Ensure the project has a Python interpreter configured:
    **File → Settings → Project → Python Interpreter** (menu names may vary by IntelliJ version).
-4. Open `chatbot.py`.
-5. Right-click inside the file and select **Run 'chatbot'**.
-6. Type messages in the Run console. Type `bye` to stop.
+3. Open `chatbot.py`.
+4. Right-click inside the file and select **Run 'chatbot'**.
+5. Type messages in the Run console. Type `bye` to stop.
 
 ## Example
 ```text
